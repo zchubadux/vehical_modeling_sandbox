@@ -1,0 +1,3 @@
+[submodule "OpenTirePython"]
+	path = OpenTirePython
+	url = https://github.com/OpenTire/OpenTirePython.git
